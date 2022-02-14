@@ -30,7 +30,7 @@ So if you've got something you'd like to practice, feel free to give it a go.
 
 **All your work will happen inside *starter_code* so first enter *starter_code*  and start coding**.
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+The designs are in JPG static format. All designs are in `/design` folder. You will find mobile, tablet and desktop version of the design.
 
 Your task is to build the project
 
