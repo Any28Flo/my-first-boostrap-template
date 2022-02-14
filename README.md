@@ -34,6 +34,9 @@ The designs are in JPG static format. All designs are in `/design` folder. You w
 
 Your task is to build the project
 
+##Preview
+![Prev Template](./design/desktop.png);
+
 
 ### Built with
 
