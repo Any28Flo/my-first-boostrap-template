@@ -23,6 +23,7 @@ So if you've got something you'd like to practice, feel free to give it a go.
   ```
   git add .
   git commit -m "done"
+  git push origin main
   ```
 
 
